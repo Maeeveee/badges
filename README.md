@@ -10,3 +10,5 @@ Repository to track and showcase GitHub profile badges and achievements.
 
 ---
 *Co-authored with Octocat*
+
+<!-- Pair extraordinaire contributor commit -->
